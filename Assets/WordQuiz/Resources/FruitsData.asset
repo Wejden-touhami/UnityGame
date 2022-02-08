@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FruitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -2690162979507777511, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: Soleil
+  - questionImage: {fileID: 2453296699080853828, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: Terre
+  - questionImage: {fileID: -2996742381838197350, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: uranus
+  - questionImage: {fileID: -3030502080218892442, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: neptune
+  - questionImage: {fileID: -8817995322327639260, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: jupiter
+  - questionImage: {fileID: -4579959780932458223, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: saturne
+  - questionImage: {fileID: -2752521980028661490, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: pluton
+  - questionImage: {fileID: -770819832576929181, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: Mars
+  - questionImage: {fileID: 3115246616498444970, guid: e9177d4bc77d95a449ec698ed6dd0153,
+      type: 3}
+    answer: Mercure
+  - questionImage: {fileID: 6447356028699191701, guid: 350ccb6dc1ff56d478d37645fd4e48cd,
+      type: 3}
+    answer: Venus
